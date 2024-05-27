@@ -27,6 +27,10 @@ Struktur direktori proyek Airbnb Bangkok Analysis terlihat seperti ini:
     └── requirements.txt   <- File persyaratan untuk mereproduksi analysis environment, e.g.
                              dibuat dengan `pip freeze > requirements.txt
 
+## URL Jupyter Notebook dan Tableau Public
+> [!important]
+> Mengingat limitasi dari GitHub, data visualisai yang dibuat menggunakan Folium tidak dapat ditampilkan di repository. Untuk melihat hasil analisis di Jupyter Notebook beserta visualisasinya, silakan kunjungi [link berikut](https://nbviewer.org/github/Umamihsanil/California-Housing-Price/blob/main/src/California_Housing_Price.ipynb). 
+
 ## Kontribusi
 
 Jika Anda berkenan untuk melakukan kontribusi terhadap analisis yang saya buat, silakan cek https://github.com/Umamihsanil/California-Housing-Price.git, atau jangan sungkan untuk menghubungi saya.
