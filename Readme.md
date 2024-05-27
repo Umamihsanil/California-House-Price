@@ -29,7 +29,7 @@ Struktur direktori proyek Airbnb Bangkok Analysis terlihat seperti ini:
 
 ## URL Jupyter Notebook dan Tableau Public
 > [!important]
-> Mengingat limitasi dari GitHub, data visualisai yang dibuat menggunakan Folium tidak dapat ditampilkan di repository. Untuk melihat hasil analisis di Jupyter Notebook beserta visualisasinya, silakan kunjungi [link berikut](https://nbviewer.org/github/Umamihsanil/California-House-Price/blob/main/src/California_Housing_Price.ipynb). 
+> Mengingat limitasi dari GitHub, data visualisai yang dibuat menggunakan Folium tidak dapat ditampilkan di repository. Untuk melihat hasil analisis di Jupyter Notebook beserta visualisasinya, silakan kunjungi [link berikut](https://nbviewer.org/github/Umamihsanil/California-House-Price/blob/main/src/California_House_Price.ipynb). 
 
 ## Kontribusi
 
