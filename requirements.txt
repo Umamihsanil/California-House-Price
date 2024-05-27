@@ -1,0 +1,4 @@
+python  == 3.9.13
+pycaret == 3.0.4
+seaborn == 0.12.2
+matplotlib == 3.7.3
