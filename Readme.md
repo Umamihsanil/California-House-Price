@@ -14,7 +14,7 @@ Untuk mendapatkan project ini, Anda dapat melakukan _clone_ dengan kode berikut:
 
 ## Susunan Project
 
-Struktur direktori proyek Airbnb Bangkok Analysis terlihat seperti ini:
+Struktur direktori proyek California House Price terlihat seperti ini:
 
     ├── README.md          <- README tingkat atas untuk pengembang yang menggunakan proyek ini.
     │
