@@ -10,7 +10,7 @@ Berdasarkan permasalahan tersebut, stakeholder tentu perlu memiliki _tool_ yang 
 ## Instalasi
 Untuk mendapatkan project ini, Anda dapat melakukan _clone_ dengan kode berikut:
 
-    git clone https://github.com/Umamihsanil/California-Housing-Price.git
+    git clone https://github.com/Umamihsanil/California-House-Price.git
 
 ## Susunan Project
 
@@ -29,8 +29,8 @@ Struktur direktori proyek Airbnb Bangkok Analysis terlihat seperti ini:
 
 ## URL Jupyter Notebook dan Tableau Public
 > [!important]
-> Mengingat limitasi dari GitHub, data visualisai yang dibuat menggunakan Folium tidak dapat ditampilkan di repository. Untuk melihat hasil analisis di Jupyter Notebook beserta visualisasinya, silakan kunjungi [link berikut](https://nbviewer.org/github/Umamihsanil/California-Housing-Price/blob/main/src/California_Housing_Price.ipynb). 
+> Mengingat limitasi dari GitHub, data visualisai yang dibuat menggunakan Folium tidak dapat ditampilkan di repository. Untuk melihat hasil analisis di Jupyter Notebook beserta visualisasinya, silakan kunjungi [link berikut](https://nbviewer.org/github/Umamihsanil/California-Housing-Price/blob/main/src/California_House_Price.ipynb). 
 
 ## Kontribusi
 
-Jika Anda berkenan untuk melakukan kontribusi terhadap analisis yang saya buat, silakan cek https://github.com/Umamihsanil/California-Housing-Price.git, atau jangan sungkan untuk menghubungi saya.
+Jika Anda berkenan untuk melakukan kontribusi terhadap analisis yang saya buat, silakan cek https://github.com/Umamihsanil/California-House-Price.git, atau jangan sungkan untuk menghubungi saya.
