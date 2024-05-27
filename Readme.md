@@ -27,7 +27,7 @@ Struktur direktori proyek California House Price terlihat seperti ini:
     └── requirements.txt   <- File persyaratan untuk mereproduksi analysis environment, e.g.
                              dibuat dengan `pip freeze > requirements.txt
 
-## URL Jupyter Notebook dan Tableau Public
+## URL Jupyter Notebook
 > [!important]
 > Mengingat limitasi dari GitHub, data visualisai yang dibuat menggunakan Folium tidak dapat ditampilkan di repository. Untuk melihat hasil analisis di Jupyter Notebook beserta visualisasinya, silakan kunjungi [link berikut](https://nbviewer.org/github/Umamihsanil/California-House-Price/blob/main/src/California_House_Price.ipynb). 
 
